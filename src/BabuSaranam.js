@@ -12,7 +12,7 @@ function BabuSaranam() {
                     <Link type="button" className="btn btn-success border border-secondary" to="Port">Portfolio</Link>
                 </div>
                 <div className="name3">
-                    <Link type="button" className="btn btn-warning  border border-secondary" to="MYoffer">Myoffer</Link>
+                    <Link type="button" className="btn btn-success  border border-secondary" to="MYoffer">Myoffer</Link>
                 </div>
             </div>
         </div>
